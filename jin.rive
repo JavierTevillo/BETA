@@ -1,0 +1,29 @@
++ [*](hola|buenas|tardes|dias|noches|empezar|comenzar)[*]
+- ¡Hola! Soy el asistente de calificación comunitaria.\nPara comenzar la solicutd escribe iniciar solicitud.\n
+
++ [iniciar solicitud]
+- Excelente, vamos a empezar con tu solicitud de apoyo económico.\n
+^ Por favor, proporciona la siguiente información:\n
+^ Nombre del proyecto que requiere apoyo económico.\n
+^ Justificación en un párrafo de menos de 100 palabras.\n
+^ Cantidad de dinero requerida.\n
+^ Enlace al video del proyecto.\n
+
++ 
+
++ no
+- Solicitud cancelada. Si deseas enviar la solicitud en otro momento, proporciona la información solicitada.
+
++ ayuda
+- Estoy aquí para ayudarte a enviar una solicitud de apoyo económico por WhatsApp. Debes proporcionar los siguientes detalles:\n
+^ Nombre del proyecto\n
+^ Justificación del proyecto en menos de 100 palabras\n
+^ Cantidad de dinero\n
+^ Enlace al video explicativo\n
+
++ cancelar
+- Solicitud cancelada. Si deseas enviar la solicitud en otro momento, proporciona la información solicitada.
+
++ [*] (gracias|adios|cerrar) [*]
+- ¡Gracias Si tienes más preguntas en el futuro, no dudes en preguntar. Adiós
+
